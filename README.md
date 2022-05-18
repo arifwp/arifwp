@@ -1,4 +1,10 @@
 ### Hi there 👋
+My name is Arif, I'am a student in Universitas Amikom Yogyakarta. Currently learning Kotlin
+
+### How to reach me 📫
+Instagram : https://www.instagram.com/arifwyp/
+
+Twitter : https://twitter.com/arifwyp
 
 <!--
 **arifwp/arifwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
