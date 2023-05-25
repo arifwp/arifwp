@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Arif, I'am a student in Universitas Amikom Yogyakarta. Currently learning Kotlin
+My name is Arif, I'am a student in Universitas Amikom Yogyakarta. Currently learning Kotlin and Flutter
 
 ### How to reach me 📫
 Instagram : https://www.instagram.com/arifwyp/
