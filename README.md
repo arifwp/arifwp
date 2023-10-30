@@ -1,10 +1,23 @@
 ### Hi there 👋
-My name is Arif, I'am a student in Universitas Amikom Yogyakarta. Currently learning Kotlin and Flutter
+I'm a **Grad Student🎓 [@ Amikom University Yogyakarta](https://home.amikom.ac.id/)** majoring in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.
 
-### How to reach me 📫
-Instagram : https://www.instagram.com/arifwyp/
+### ⚡ Technologies
+Talk to me about :
+- Front-end development using **HTML, Javascript, CSS, Bootstrap**
+- Backend development using **Codeigniter**
+- Mobile application development using **Kotlin and Flutter** (Still learning)
 
-Twitter : https://twitter.com/arifwyp
+### 🌱 What do I do and What have I done?
+- I’m currently working as a Android & Web Developer at Business Watch Indonesia
+- Android Engineer Intern at Qatros 2022
+- Android Developer Student at Bangkit Academy 2022
+
+### 📫 How to reach me?
+- [LinkedIn](https://www.linkedin.com/in/arif-wahyu-prasetyo/)
+- [Twitter](https://twitter.com/arifwahyuu_)
+- [Instagram](https://instagram.com/arifwahyuu_)
+
+You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 <!--
 **arifwp/arifwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
