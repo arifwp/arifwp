@@ -3,9 +3,9 @@ I'm a **Grad Student🎓 [@ Amikom University Yogyakarta](https://home.amikom.ac
 
 ### ⚡ Technologies
 Talk to me about :
-- Front-end development using **HTML, Javascript, CSS, Bootstrap**
-- Backend development using **Codeigniter**
-- Mobile application development using **Kotlin and Flutter** (Still learning)
+- Front-end development using **HTML, Javascript, CSS, React, Chakra UI**
+- Backend development using **Laravel**
+- Mobile application development using **Kotlin**
 
 ### 🌱 What do I do and What have I done?
 - I’m currently working as a Android & Web Developer at Business Watch Indonesia
@@ -17,7 +17,7 @@ Talk to me about :
 - [Twitter](https://twitter.com/arifwahyuu_)
 - [Instagram](https://instagram.com/arifwahyuu_)
 
-You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, and collaborate🤝
 
 <!--
 **arifwp/arifwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
