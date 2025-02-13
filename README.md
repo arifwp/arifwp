@@ -8,7 +8,7 @@ Talk to me about :
 - Mobile application development using **Kotlin**
 
 ### 🌱 What do I do and What have I done?
-- I’m currently working as a Android & Web Developer at Business Watch Indonesia
+- I’m currently working as a Android & Fullstack Developer at Business Watch Indonesia
 - Android Engineer Intern at Qatros 2022
 - Android Developer Student at Bangkit Academy 2022
 
