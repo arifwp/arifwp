@@ -11,10 +11,10 @@ I work remotely from Indonesia for a Malaysia-based team, and I'm **open to remo
 
 #### 🛠️ Tech I work with
 
-- **Front end:** TypeScript, React, Tanstack Start, Next.js, Vite, Tailwind CSS, Material UI, Tanstack Query, Zustand
-- **Back end:** Node.js, Laravel, REST APIs, Webhooks, Payment Integrations, Supabase, Firebase
-- **Data:** PostgreSQL, MySQL
-- **Tooling & infra:** Git / GitHub, CI/CD, Azure, Cloud Deployment
+- **Frontend:** TypeScript, React, Tanstack Start, Next.js, Vite, Tailwind CSS, Material UI, Tanstack Query, Zustand
+- **Backend:** Node.js, Laravel, REST APIs, Webhooks, Payment Integrations, Supabase, Firebase
+- **Database:** PostgreSQL, MySQL
+- **Tooling & Infra:** Git / GitHub, CI/CD, Azure, Cloud Deployment
 - **How I work:** Agile / Scrum, code review, SOLID, Performance Optimization, API Documentation
 
 #### 📫 Reach me
