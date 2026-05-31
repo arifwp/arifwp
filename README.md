@@ -1,34 +1,24 @@
-### Hi there 👋
-I'm **Arif** - an Full Stack Engineer based in Bandung, Indonesia.
-I build things end-to-end: from pixel-perfect UIs to scalable backend services. Currently shipping features at **Legal Plus**, and always looking for  problems worth solving.
+### Hi, I'm Arif 👋
 
-**Core Stack**
-- TypeScript, React, Next.js, Node.js
-- PostgreSQL
+I'm a **Software Engineer**. I build production web apps end-to-end with React, Tanstack Start, Next.js on the front, Laravel, Node, and Go on the back. I care most about the parts users actually feel: load time, form behavior, and the edge cases that quietly break things.
 
-**Frontend & UI**
-- Tailwind CSS, Chakra UI
-- Responsive design, performance optimization
+I work remotely from Indonesia for a Malaysia-based team, and I'm **open to remote roles anywhere**.
 
-**Backend & Architecture**
-- RESTful APIs, Webhooks, Payment Integration
-- Laravel, Supabase, Firebase
-- Scalable system design (modular services, API-first approach)
+#### 🔭 What I'm working on now
 
-**Tools & Infrastructure**
-- Git, GitHub
-- CI/CD pipelines
-- Vercel, Render
+- Shipping features on a **React + TypeScript** product with complex form flows (React Hook Form + Valibot + MUI), rich-text editing, timezone handling, and the unglamorous tooling (ESLint / pre-commit hooks) that keeps a team's codebase sane.
+- Deepening backend ownership with APIs, data modeling, and integrations — to round out the full-stack side.
 
-### 🌱 What do I do and What have I done?
-- Currently working as a Full Stack Engineer at [Legal Plus](https://legalplus.co.id/)
-- Full Stack Developer at [Playfields](https://playfields.id/)
-- Android & Full Stack Developer at Business Watch Indonesia
-- Android Engineer Intern at [Qatros](https://qatros.com/)
-- Android Developer Student at Bangkit Academy
+#### 🛠️ Tech I work with
 
-### 💻 My Profiles
-- [LinkedIn](https://www.linkedin.com/in/arif-wahyu-prasetyo/)
-- [Portfolio](https://arifprasetyo.com)
+- **Front end:** TypeScript, React, Tanstack Start, Next.js, Vite, Tailwind CSS, Material UI, Tanstack Query, Zustand
+- **Back end:** Node.js, Laravel, REST APIs, Webhooks, Payment Integrations, Supabase, Firebase
+- **Data:** PostgreSQL, MySQL
+- **Tooling & infra:** Git / GitHub, CI/CD, Azure, Cloud Deployment
+- **How I work:** Agile / Scrum, code review, SOLID, Performance Optimization, API Documentation
 
-I’m always open to collaboration, knowledge sharing, and exciting opportunities. Let’s build something great together! 🚀
+#### 📫 Reach me
+
+- 🌐 Portfolio — [arifprasetyo.com](https://arifprasetyo.com)
+- 💼 LinkedIn — [arif-wahyu-prasetyo](https://www.linkedin.com/in/arif-wahyu-prasetyo/)
+- ✉️ Email — _[arif.wpras@gmail.com]_
