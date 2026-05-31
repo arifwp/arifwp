@@ -19,6 +19,6 @@ I work remotely from Indonesia for a Malaysia-based team, and I'm **open to remo
 
 #### 📫 Reach me
 
-- 🌐 Portfolio — [arifprasetyo.com](https://arifprasetyo.com)
-- 💼 LinkedIn — [arif-wahyu-prasetyo](https://www.linkedin.com/in/arif-wahyu-prasetyo/)
-- ✉️ Email — _[arif.wpras@gmail.com]_
+- 🌐 Portfolio [arifprasetyo.com](https://arifprasetyo.com)
+- 💼 LinkedIn [arif-wahyu-prasetyo](https://www.linkedin.com/in/arif-wahyu-prasetyo/)
+- ✉️ Email _arif.wpras@gmail.com_
